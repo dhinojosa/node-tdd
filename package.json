@@ -31,6 +31,7 @@
     "babel-runtime": "^6.11.6",
     "chai": "^4.0.0-canary.2",
     "chai-as-promised": "^6.0.0",
+    "easystatic": "0.1.12",
     "moment": "^2.18.1",
     "npm-ls-scripts": "^0.1.2",
     "rxjs": "^5.4.0",
